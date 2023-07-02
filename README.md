@@ -1,2 +1,2 @@
-# 6.100A_Introduction_to_Computer_Science_and_Programming_in_Python
-Solutions to Problem Sets
+# MIT_6.100A_Introduction_to_Computer_Science_and_Programming_in_Python
+Classwork from MIT's course 6.100A Introduction_to_Computer_Science_and_Programming_in_Python
